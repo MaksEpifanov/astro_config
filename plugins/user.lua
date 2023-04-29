@@ -9,7 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  {
-    "sainnhe/gruvbox-material",
-  },
+ 
+  "sainnhe/gruvbox-material",
+  "navarasu/onedark.nvim",
+  
 }
