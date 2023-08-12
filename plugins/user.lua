@@ -9,8 +9,11 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
- 
   "sainnhe/gruvbox-material",
   "navarasu/onedark.nvim",
-  
+  {
+    "styled-components/vim-styled-components",
+    lazy = false,
+    ft = { '.style.tsx', '.style.ts' }
+  }
 }
