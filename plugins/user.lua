@@ -10,7 +10,7 @@ return {
   --   end,
   -- },
   "sainnhe/gruvbox-material",
-  "navarasu/onedark.nvim",
+  "rebelot/kanagawa.nvim",
   {
     "styled-components/vim-styled-components",
     lazy = false,
